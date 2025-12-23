@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://adel2010-lab.github.io/fast-kick-live/sitemap.xml
+Sitemap: https://adel2010-lab.github.io/fast-kick-live1/sitemap.xml
